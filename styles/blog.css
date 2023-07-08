@@ -1,0 +1,32 @@
+.text{
+ color: #FD6E0A;   
+}
+nav > ul{
+    display: flex;
+    
+    
+}
+nav li{
+    list-style: none;
+  margin-right: 50px;
+  text-align: center;
+  
+}
+nav a{
+text-decoration: none;
+
+}
+.btn-primary{
+    width: 100px;
+    height: 30px;
+ color: white;
+ background-color: #FD6E0A;
+ border: 0px;
+ border-radius: 3px;
+}
+nav{
+    justify-content: space-between;
+    display: flex;
+    text-align: center;
+}
+    
