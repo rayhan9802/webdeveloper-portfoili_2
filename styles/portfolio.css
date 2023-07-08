@@ -1,0 +1,38 @@
+.marry{
+    color: #FD6E0A;
+}
+nav{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.nav-title{
+    color: #181818;
+   
+    font-size: 45px;
+   
+    font-weight: 800;
+
+}
+nav > ul{
+    display: flex;
+    align-items: center;
+    
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+    
+}
+nav a{
+    text-decoration: none;
+}
+.btn-primary{
+    border-radius: 5px;
+background: #FD6E0A;
+width: 100px;
+height: 40px;
+color: white;
+border:0px ;
+}
