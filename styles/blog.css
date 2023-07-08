@@ -28,5 +28,18 @@ nav{
     justify-content: space-between;
     display: flex;
     text-align: center;
+    margin: 0px 100px;
 }
+    .header{
+        background-color: #FFF8F3;;
+    }
+    .benner{
+        padding: 30px 30px 30px 150px;
+        display: flex;
+        align-items: center;
+       
     
+    }
+    .benner .profile{
+        width: 300px;
+    }
